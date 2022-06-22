@@ -1,1 +1,1 @@
-# Pneumonia-Diagnosis-in-Chest-X-ray-Images
+# Pneumonia Diagnosis in Chest X-ray Images
