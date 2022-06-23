@@ -1,4 +1,4 @@
-# Pneumonia Diagnosis in Chest X-ray Images 🏥 ☢ 🩺
+# Pneumonia Diagnosis in Chest X-ray Images 🏥 ☢ 🩺 ![license](https://img.shields.io/github/license/Pegah-Ardehkhani/Pneumonia-Diagnosis-in-Chest-X-ray-Images.svg) ![releases](https://img.shields.io/github/release/Pegah-Ardehkhani/Pneumonia-Diagnosis-in-Chest-X-ray-Images.svg) <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Pneumonia-Diagnosis-in-Chest-X-ray-Images/blob/main/Pneumonia%20Diagnosis%20using%20X-rays.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Pneumonia-Diagnosis-in-Chest-X-ray-Images/blob/main/Pneumonia%20Diagnosis%20using%20X-rays.ipynb)
 
 <p align="center">
   <img width="700" height="300" src="https://img.grepmed.com/uploads/5678/pneumonia-cxr-comparison-lung-clinical-original.gif">
