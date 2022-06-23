@@ -24,7 +24,7 @@ For the analysis of chest x-ray images, all chest radiographs were initially scr
   <img width="700" height="900" src="https://github.com/Pegah-Ardehkhani/Pneumonia-Diagnosis-in-Chest-X-ray-Images/blob/main/CNN.png">
 </p>
 
-**Model 2: InceptionV3 (Transfer )**
+**Model 2: InceptionV3 (Transfer Learning)**
 
 <p align="center">
   <img width="900" height="300" src="https://camo.githubusercontent.com/b50c628a87182a67a7d738d9bace531587992223b6b45788d9fb544ae11f31cb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323030302f302a746533786b734f725679744d2d423137">
